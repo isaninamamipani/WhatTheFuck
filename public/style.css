@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  font-family: 'Comfortaa', cursive;
+  background-color: black;
+  color: white;
+background-repeat:no-repeat;
+}
+
+.home-page {
+
+}
+
+img{
+  width: 40%;
+}
+header {
+  padding-bottom:30px;
+}
+header p {
+font-size:50px;
+}
+.cta-primary {
+  border:1px solid white;
+padding:20px;
+display: inline-block;
+text-decoration: none;
+color: white;
+}
+.cta-primary:hover {
+background-color: white;
+color: black;
+}
+.cta-secondary {
+color: white;
+}
+.cta-secondary:hover {
+  color: black;
+}
